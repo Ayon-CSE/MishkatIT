@@ -1,108 +1,102 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MishkatIT&label=Profile%20views&color=0e75b6&style=flat" alt="MishkatIT" /> </p>
-<h2 align="center">
-  <font color="#007BFF"><b>Hi 👋, I'm Mishkat</b></font>
-</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&center=true&vCenter=true&lines=Competitive+Programmer;Freelancer+at+Fiverr;Good+Listener;Self+Learner"><br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ayon-CSE&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+<h2 align="center">
+  <font color="#007BFF"><b>Hi 👋, I'm Ayon Das Gupta</b></font>
+</h2>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&center=true&vCenter=true&lines=Competitive+Programmer;Problem+Solver;Critical+Thinker;Backend+Developer;CSE+Undergraduate">
+</p>
 
-### About Me
+---
 
-🎓 I'm a CSE undergraduate passionate about solving problems with **C++**.
+## 👨‍💻 About Me (CP-Focused)
 
-🧠 I explore **algorithms and data structures** regularly.
+🎓 **Computer Science & Engineering (CSE)** undergraduate  
+🧠 Strong in **Algorithms, Data Structures & Mathematical Thinking**  
+🏆 Active **Competitive Programmer** across multiple OJs  
+⚙️ Focused on **CP + Backend Development + Interviews**  
+🧪 I enjoy breaking problems down to their **core logic**  
+📚 Hobby: **Reading**
 
-🖥️ I use **C++, Java, Python, C, PHP** and manage **MySQL** databases.
+📄 **Resume** →  
+👉 [View Resume](https://media.licdn.com/dms/document/media/v2/D562DAQEDN-8O8MSFUA/profile-treasury-document-pdf-analyzed/B56ZiAClKHHUAk-/0/1754494818902?e=1770854400&v=beta&t=jUSAwXnSCL5_gk-b-uKjvs2ggODL7vBxFqZkiYphN4s)
 
-🎨 I'm also a **Fiverr Level-2 graphic designer**, focused on minimal & creative designs.
+---
 
-🌿 Hobbies include **hiking, cycling, and reading**.
+## 🧠 Technical Skills (Recruiter Friendly)
 
-🔁 I enjoy blending **logic + creativity** to grow as a Programmer & Designer.
+- **Languages:** C, C++, Java, Python  
+- **Core CS:**  
+  - Data Structures & Algorithms  
+  - Problem Solving  
+  - Time & Space Optimization  
+- **Competitive Programming:**  
+  - Codeforces, CodeChef, AtCoder, LeetCode, CSES  
+- **Backend (Learning & Practicing):**  
+  - MERN Stack  
+  - APIs & Databases  
 
-📄 [View My Resume](https://drive.google.com/file/d/1klsrCBKxdh0aQC_5qoYpizRK96n9nqjX/view?usp=drive_link)
+---
 
+## 🏆 Competitive Programming Profiles
 
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/Ayon.svg)](https://codeforces.com/profile/Ayon)
+[![AtCoder](https://cp-logo.vercel.app/atcoder/AyonCoder?logo=true)](https://atcoder.jp/users/AyonCoder)
+[![CodeChef](https://cp-logo.vercel.app/codechef/ayoncoder?logo=true)](https://www.codechef.com/users/ayoncoder)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AyonCoder-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/AyonCoder/)
 
+---
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Github Stats
+## 🎯 Codeforces Rating & Rank (Auto Colored)
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Ayon&force_username=true&show_icons=true&theme=default" />
+</p>
+
+🔹 Badge color automatically reflects your **current CF rank**  
+🔹 Updates instantly after contests
+
+---
+
+## 📊 GitHub & CP Stats
+
 <div align="center">
-<img src="https://img.shields.io/badge/Profile%20Stats-MishkatIT-success.svg" style="filter: invert(1);" />
 
-![Mishkat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishkatIT&theme=gotham_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayon-CSE&theme=gotham_border=true)
 
-![Mishkat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishkatIT&theme=gotham_icons=true&hide_border=true&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MishkatIT&theme=gotham_icons=true&hide_border=true&layout=compact)
-</br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayon-CSE&layout=compact&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayon-CSE&hide_border=true)
+
 </div>
 
 ---
 
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miskat141/) 
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/miskat141)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/miskat141/)
-
-### 🧠 Competitive Programming Profiles 
-
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/MishkatIT.svg)](https://codeforces.com/profile/MishkatIT)
-[![AtCoder](https://cp-logo.vercel.app/atcoder/mishkatit?logo=true)](https://atcoder.jp/users/MishkatIT)
-[![CodeChef](https://cp-logo.vercel.app/codechef/mishkatit?logo=true)](https://www.codechef.com/users/mishkatit)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/MishkatIT/)
-[![CSES](https://img.shields.io/badge/CSES-000000.svg?style=flat-square&logo=css3&logoColor=white)](https://cses.fi/user/165802)
-[![SPOJ](https://img.shields.io/badge/SPOJ-000000.svg?style=flat-square&logo=spoj&logoColor=white)](https://www.spoj.com/users/mishkatit)
-[![LightOJ](https://img.shields.io/badge/LightOJ-24b9bb.svg?style=flat-square&logo=LightOJ&logoColor=white)](https://lightoj.com/user/mishkatit)
-[![Toph](https://img.shields.io/badge/Toph-000000.svg?style=flat-square&logo=toph&logoColor=white)](https://toph.co/u/MishkatIT)
-[![Vjudge](https://img.shields.io/badge/Vjudge-000000.svg?style=flat-square&logo=vjudge&logoColor=white)](https://vjudge.net/user/MishkatIT)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/MishkatIT)
-[![UVa](https://img.shields.io/badge/UVA-000000.svg?style=flat-square&logo=uva&logoColor=white)](https://uhunt.onlinejudge.org/id/1615470)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-000000.svg?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@MishkatIT)
-[![Kattis](https://img.shields.io/badge/Kattis-000000.svg?style=flat-square&logo=kattis&logoColor=white)](https://open.kattis.com/users/mishkatit)
-
+## 🧠 LeetCode Performance
 
 <div align="center">
-  
-<!-- ## <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="26"/> CodeForces -->
 
-<br>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=AyonCoder&filter=daily" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=AyonCoder&filter=annual" />
 
-#  **Codeforces Stats**
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mishkatit&force_username=true&show_icons=true)](https://codeforces.com/profile/mishkatit)
-
-
-<br>
-<br>
-<br>
-
-#  **LeetCode Stats**
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=mishkatit&theme=light&filter=daily" alt="LeetCode Badges" />
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=mishkatit&theme=light&filter=annual" alt="LeetCode Badges" />
-
-![](https://leetcard.jacoblin.cool/mishkatit?ext=heatmap) <!-- use ext=contest to show contest graph, or remove any ext to not show-->
-
-<!-- ![Mishkat's LeetCode statsl](https://leetcode-badge-sage.vercel.app/badge/mishkatit?theme=neutral) -->
+![](https://leetcard.jacoblin.cool/AyonCoder?ext=heatmap)
 
 </div>
 
-<be>
-<be>
-<be>
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayon%20Das%20Gupta-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoncse/)
+[![Facebook](https://img.shields.io/badge/Facebook-Ayon%20Das%20Gupta-0866FF?logo=facebook&logoColor=white)](https://www.facebook.com/ayon.dasgupta.96/)
+
+---
 
 <p align="center">
-  <a href="https://github.com/MishkatIT/ProblemSolvingStats">
-    <img src="https://img.shields.io/badge/VIEW-Total_Problems_Solved_in_Different_Online_Judges-darkgreen" alt="Total Solve Badge" width="" height="35">
+  <a href="https://github.com/Ayon-CSE/ProblemSolvingStats">
+    <img src="https://img.shields.io/badge/VIEW-Total_Problems_Solved_in_Online_Judges-darkgreen" height="36">
   </a>
 </p>
-
-
-
-
-
-
-
